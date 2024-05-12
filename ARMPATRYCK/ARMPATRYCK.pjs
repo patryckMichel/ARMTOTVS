@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{3D67BD7A-07B2-4F8C-8EE5-681B92144D5C}">
+	<children />
+	<folders />
+	<testItems key="{56AB4A2F-3CEA-4670-B57A-376C214AB0A4}">
+		<children />
+	</testItems>
+	<variables key="{3D5A9D0A-F001-443F-95C2-B896181F0230}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{449BE3B7-821E-423E-8013-AE8DF43E4B19}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}" />
+</Root>

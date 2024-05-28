@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{AD570139-918F-479E-8157-52E57E5F2335}">
+	<children>
+		<folder name="ROTINAS">
+			<child name="1503" key="{0474DD41-2A9A-41F4-8C17-304F8451B013}" path="1503\1503.mds" />
+			<child name="410" key="{EECD22F8-DF0E-41C7-9591-E7D46E95AF3A}" path="410\410.mds" />
+		</folder>
+	</children>
+	<testItems key="{145401F5-A7B9-4968-9F8A-182EBC1A7980}">
+		<children>
+			<testItem key="{0474DD41-2A9A-41F4-8C17-304F8451B013}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{EECD22F8-DF0E-41C7-9591-E7D46E95AF3A}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{B6905C37-F3EF-4A50-92B3-E11583803CC9}" />
+	<analysis key="{FB905D06-3691-4C40-876E-B752BEAFA8A0}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

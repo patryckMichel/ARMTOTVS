@@ -1,0 +1,7 @@
+﻿procedure layoutSafraPay;
+  var texto :string;
+  
+begin
+  texto := 'OLÁ MUNDO';
+  Log.Message(texto);
+end;

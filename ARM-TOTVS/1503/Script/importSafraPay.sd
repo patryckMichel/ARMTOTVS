@@ -1,0 +1,7 @@
+﻿procedure layoutSafraPay;
+  var texto :string;
+  
+begin
+  texto := 'OLÁ MUNDO eu SOU A 1503';
+  Log.Message(texto);
+end;
